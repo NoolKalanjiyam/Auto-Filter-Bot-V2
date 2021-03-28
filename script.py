@@ -1,9 +1,7 @@
 class script(object):
 
 
-    START_MSG = """<b>Hi {}</b>"""
+    START_MSG = """<b>Hi {} How Are You?</b>"""
 
 
-    GROUP_MSG = """url="https://t.me/pdfworld"""
-
-CHANNEL_MSG = """⭕️url="https://t.me/tamilbooksworld⭕️"""
+    
